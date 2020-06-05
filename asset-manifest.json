@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aklyce.github.io/static/css/main.e51bca42.chunk.css",
+    "main.js": "/aklyce.github.io/static/js/main.0ad9aca6.chunk.js",
+    "main.js.map": "/aklyce.github.io/static/js/main.0ad9aca6.chunk.js.map",
+    "runtime-main.js": "/aklyce.github.io/static/js/runtime-main.02125791.js",
+    "runtime-main.js.map": "/aklyce.github.io/static/js/runtime-main.02125791.js.map",
+    "static/js/2.8296cd0e.chunk.js": "/aklyce.github.io/static/js/2.8296cd0e.chunk.js",
+    "static/js/2.8296cd0e.chunk.js.map": "/aklyce.github.io/static/js/2.8296cd0e.chunk.js.map",
+    "index.html": "/aklyce.github.io/index.html",
+    "precache-manifest.2304aaf5194702c3373ee49671ac498c.js": "/aklyce.github.io/precache-manifest.2304aaf5194702c3373ee49671ac498c.js",
+    "service-worker.js": "/aklyce.github.io/service-worker.js",
+    "static/css/main.e51bca42.chunk.css.map": "/aklyce.github.io/static/css/main.e51bca42.chunk.css.map",
+    "static/js/2.8296cd0e.chunk.js.LICENSE.txt": "/aklyce.github.io/static/js/2.8296cd0e.chunk.js.LICENSE.txt",
+    "static/media/IMG_6565.jpg": "/aklyce.github.io/static/media/IMG_6565.585da741.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02125791.js",
+    "static/js/2.8296cd0e.chunk.js",
+    "static/css/main.e51bca42.chunk.css",
+    "static/js/main.0ad9aca6.chunk.js"
+  ]
+}
